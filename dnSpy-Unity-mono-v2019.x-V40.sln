@@ -236,18 +236,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgcbdwgc", "unity-2019.4.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmono-dynamic", "unity-2019.4.21-mbe\msvc\libmono-dynamic.vcxproj", "{5C13821E-B2F2-44AF-804F-4F07E2C66EB8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "unity-2019.4.22-mbe", "unity-2019.4.22-mbe", "{A90F1B48-CBF6-44BA-8A87-CDFBCFBDF0FF}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "build-init", "unity-2019.4.22-mbe\msvc\build-init.vcxproj", "{1F34908C-9B13-4095-8D2D-3B57111D935E}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "eglib", "unity-2019.4.22-mbe\msvc\eglib.vcxproj", "{6D2D8D82-6F24-4A06-8D65-FAEE967A45F7}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "genmdesc", "unity-2019.4.22-mbe\msvc\genmdesc.vcxproj", "{6D5CE33B-7DF9-4011-A349-6494107F2D28}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libgcbdwgc", "unity-2019.4.22-mbe\msvc\libgcbdwgc.vcxproj", "{B04360F8-0B12-49DA-9544-7F63E83F6FF5}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libmono-dynamic", "unity-2019.4.22-mbe\msvc\libmono-dynamic.vcxproj", "{51AA5F87-273B-4930-BA37-58FFE3AFEBB7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
